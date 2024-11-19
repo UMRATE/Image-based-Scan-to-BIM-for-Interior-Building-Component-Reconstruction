@@ -4,7 +4,6 @@
 This research project aims to develop an image-based Scan-to-BIM approach to facilitate room-level reconstruction of interior scenes, covering common building elements such as floors, ceilings, walls, doors, windows, and lift openings. The approach consists of four stages: image-based point cloud generation, boundary surface modeling, semantic projection and boundary refinement, and BIM reconstruction, as shown below.
 ![Workflow of Scan-to-BIM Approach](images/workflow.jpg "Scan-to-BIM Workflow")
 
-
 ## Structure
 This repository intends to include the raw data and codes of the proposed approach, including:
 1. **Point cloud pre-processing using PCL library** (In preparation)

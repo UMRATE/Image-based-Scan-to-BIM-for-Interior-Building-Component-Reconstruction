@@ -1,0 +1,17 @@
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.dll
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.pdb
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.csproj.AssemblyReference.cache
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.csproj.CoreCompileInputs.cache
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.dll
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.pdb
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.addin
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.addin
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.dll
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.pdb
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.csproj.AssemblyReference.cache
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.csproj.CoreCompileInputs.cache
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.dll
+G:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.pdb
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.g.resources
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.Dialog.resources
+F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\obj\Debug\Scan2BIM.csproj.GenerateResource.cache

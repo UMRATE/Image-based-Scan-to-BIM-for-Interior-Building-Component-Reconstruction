@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Scan2BIM</Name>
+		<FullClassName>Scan2BIM.S2BApplication</FullClassName>
+		<Text> Generate BIM models </Text>
+		<Description> Generate BIM models</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>
+			F:\Scan2BIM\Revit API\Scan2BIM\Scan2BIM\bin\Debug\Scan2BIM.dll
+		</Assembly>
+		<AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+		<VendorId>Testing</VendorId>
+		<VendorDescription>Testing</VendorDescription>
+	</AddIn>
+</RevitAddIns>
